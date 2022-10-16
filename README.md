@@ -5,7 +5,7 @@
 #### Qinghua Cui[cuiqinghua@bjmu.edu.cn]
 
 
-1st place code in Google Universal Image Embedding is now avaliable!
+1st place code in Google Universal Image Embedding is now avaliable!🔥🔥🔥
 
 If you have any further question, Please kindly e-mail us.
 

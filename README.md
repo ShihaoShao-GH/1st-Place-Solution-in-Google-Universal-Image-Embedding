@@ -10,7 +10,7 @@ Please kindly e-mail us, if you have any further question.
 
 Please download the following datasets:
 
-[Products-10K](https://products-10k.github.io/) <br/><br/>
+[Products-10K](https://products-10k.github.io/) <br/>
 [Shopee](https://www.kaggle.com/competitions/shopee-product-matching/data) <br/>
 [MET Artwork Dataset](https://www.kaggle.com/competitions/shopee-product-matching/data) <br/>
 [Alibaba goods](https://www.kaggle.com/datasets/dschettler8845/the-met-dataset)<br/>

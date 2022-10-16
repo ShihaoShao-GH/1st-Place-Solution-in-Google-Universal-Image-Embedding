@@ -6,6 +6,8 @@
 
 Please kindly e-mail us, if you have any further question.
 
+The detailed solution can be found [here](https://www.kaggle.com/competitions/google-universal-image-embedding/discussion/359316).
+
 ## Data preparation
 
 Please download the following datasets:

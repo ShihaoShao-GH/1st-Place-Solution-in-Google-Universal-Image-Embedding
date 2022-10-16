@@ -1,8 +1,7 @@
 
 # 1st Solution in Google Universal Image Embedding
 
-#### Shihao Shao Qinghua Cui
-##### shaoshihao@pku.edu.cn cuiqinghua@bjmu.edu.cn
+#### Shihao Shao[shaoshihao@pku.edu.cn] Qinghua Cui[cuiqinghua@bjmu.edu.cn]
 
 Please kindly e-mail us, if you have any further question.
 

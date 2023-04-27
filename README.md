@@ -11,6 +11,12 @@ If you have any further question, Please kindly e-mail us.
 
 The detailed solution can be found [here](https://www.kaggle.com/competitions/google-universal-image-embedding/discussion/359316).
 
+
+## UPDATE
+
+4/27/2023: The weights are uploaded. This weights can achieve 0.728/0.732 in private LB and public LB, respectively.
+https://www.kaggle.com/datasets/louieshao/guieweights0732
+
 ## Data preparation
 
 Please download the following datasets:
